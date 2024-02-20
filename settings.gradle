@@ -1,0 +1,5 @@
+rootProject.name = 'NewGradleHomeWork'
+include 'db'
+include 'api'
+include 'service'
+
